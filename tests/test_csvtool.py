@@ -28,7 +28,7 @@ import itertools
 
 import pyarrow as pa
 
-from artemis.tools.csvtool import CsvTool
+from artemis_tools.tools.csvtool import CsvTool
 from artemis.generators.csvgen import GenCsvLikeArrow
 from cronus.core.cronus import BaseObjectStore
 from artemis_format.pymodels.table_pb2 import Table

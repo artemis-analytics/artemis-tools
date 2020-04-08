@@ -19,7 +19,7 @@
 
 import unittest
 
-from artemis.tools.xlstool import XlsTool
+from artemis_tools.tools.xlstool import XlsTool
 from artemis_format.pymodels.cronus_pb2 import DatasetObjectInfo as Dataset
 from artemis_format.pymodels.table_pb2 import Table
 
