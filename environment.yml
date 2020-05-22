@@ -29,3 +29,5 @@ dependencies:
     - pyfwfr
     - numpy
     - pandas
+    - conda-build
+    - anaconda-client
